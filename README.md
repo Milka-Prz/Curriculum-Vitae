@@ -1,6 +1,6 @@
 # Curriculum-Vitae
 Es el código sobre información personal.
-extends layout
+`extends layout
 
 block content
 
@@ -442,4 +442,4 @@ block content
     // smooth scrolling
     script(src='javascripts/SmoothScroll.min.js')
     // //smooth scrolling
-    // //js-scripts
+    // //js-scripts`
